@@ -1,16 +1,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 January 2022 - To: 10 September 2022
+From: 05 January 2022 - To: 13 September 2022
 
-Total Time: 312 hrs 16 mins
+Total Time: 313 hrs 13 mins
 
-Java                228 hrs 55 mins >>>>>>>>>>>>>>>>>>-------   73.31 %
-XML                 22 hrs 21 mins  >>-----------------------   07.16 %
-C++                 18 hrs 22 mins  >------------------------   05.88 %
-Python              17 hrs 43 mins  >------------------------   05.67 %
-CSS                 7 hrs 14 mins   >------------------------   02.32 %
-SQL                 4 hrs 40 mins   -------------------------   01.50 %
+Java                229 hrs 41 mins >>>>>>>>>>>>>>>>>>-------   73.33 %
+XML                 22 hrs 33 mins  >>-----------------------   07.20 %
+C++                 18 hrs 22 mins  >------------------------   05.87 %
+Python              17 hrs 43 mins  >------------------------   05.66 %
+CSS                 7 hrs 14 mins   >------------------------   02.31 %
+SQL                 4 hrs 40 mins   -------------------------   01.49 %
 ```
 
 <!--END_SECTION:waka-->
